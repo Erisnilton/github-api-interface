@@ -1,30 +1,44 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## About project
-
-This repository was created in order to show how we can create a frontend application with reusable components.
-
-We will create an application using the github public api.
-
-### Features
-
-- Search infos by username
-- Search repo by username
-- Search starred by username
-
 ### Preview
 
-Print of the finished project.
+Print do projeto finalizado.
 
 ![plot](./image/snapshot-1.png)
 
-### Libraries used
+# Sobre o Projeto
+
+O objetivo principal uma interface web usando componentização do ReactJS em um sistema que lista informação de um usuário de Github.
+
+# [:link: Demo](https://philips-dev-week.herokuapp.com)
+
+### Desafio:
+
+- Desenvolver, junto com experts, uma interface web em ReactJS, acessando os dados de da API do Github.
+
+### Tarefas
+
+- [x] Criação do projeto
+- [ ] Deploy no github pages
+
+### Features
+
+- [x] Buscar informações pelo do usuário
+- [x] Buscar repositórios pelo do usuário
+- [x] Buscar estrelas pelo do usuário
+
+### Bibliotecas usadas
 
 - [axios](https://www.npmjs.com/package/axios)
 - [react-tabs](https://www.npmjs.com/package/react-tabs)
 - [styled-components](https://styled-components.com/)
+
+### 🛠 Tecnologias
+
+As seguintes ferramentas foram usadas na construção do projeto:
+
+- [ReactJS](https://pt-br.reactjs.org/)
+- [API do github](https://docs.github.com/pt/rest)
+
+#
 
 ## Available Scripts
 
